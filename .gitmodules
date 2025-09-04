@@ -1,0 +1,6 @@
+[submodule "common/Ultra-Light-Fast-Generic-Face-Detector-1MB"]
+	path = common/Ultra-Light-Fast-Generic-Face-Detector-1MB
+	url = https://github.com/Hadleigh-Schwartz/Ultra-Light-Fast-Generic-Face-Detector-1MB.git
+[submodule "embedding/uvc-util"]
+	path = embedding/uvc-util
+	url = https://github.com/jtfrey/uvc-util.git
