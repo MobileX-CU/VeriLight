@@ -9,8 +9,6 @@
 > The expected time needed to evaluate the artifact is as follows:
 > 1. [Requirements and Installation](#requirements-and-installation) (5 human-minutes and 10 compute-minutes)
 > 2. [Run demo notebook](#demo) (10 human-minutes and 35 compute-minutes)
->
-> Thank you!
 
 
 VeriLight is a system for protecting live speech videos from visual falsification of speaker identity and lip and facial motion. Unlike the predominant *digital* methods for detecting fake videos, VeriLight creates dynamic *physical* signatures at the speech site and embeds them into all video recordings via imperceptible modulated light. These physical signatures can be extracted from any video downstream and validated against the portrayed speech content to check its integrity. 
