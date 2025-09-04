@@ -103,8 +103,6 @@ A demo is provided as a Jupyter notebook [here](demo.ipynb). See [here](https://
 
 Before starting, download the videos/reference output [here](https://drive.google.com/file/d/1YfkcEZ0WHKrBfaAkWabI15o2LLmZAYUo/view?usp=sharing) and place the contents in the ```data``` directory.
 
-All the cells have been pre-executed to show the expected output. You can re-run the code cells to reproduce it.
-
 ## Copyright
 © 2025 The Trustees of Columbia University in the City of New York.  
 This work may be reproduced, distributed, and otherwise exploited for academic non-commercial purposes only. To obtain a license to use this work for commercial purposes, please contact Columbia Technology Ventures at techventures@columbia.edu.
