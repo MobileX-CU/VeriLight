@@ -1,4 +1,5 @@
 # Combating Falsification of Speech Videos with Live Optical Signatures
+[![DOI](https://zenodo.org/badge/1050567422.svg)](https://doi.org/10.5281/zenodo.17063746)
 
 > **Artifact Overview** 
 >
