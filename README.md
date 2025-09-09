@@ -37,6 +37,8 @@ The repo is structured as follows:
 - ```data```: Videos and reference output for the demo
 - ```assets```: Images and videos used in README and guides
 
+For our PyTorch implementation of MediaPipe FaceMesh (used to develop our adversarially-trained reenactment models) see [here](https://github.com/Hadleigh-Schwartz/pytorch_facemesh/tree/main).
+
 ## Requirements and Installation
 This implementation has been successfully tested in macOS and Windows with Python 3.8.20. 
 
