@@ -59,17 +59,19 @@ Follow the steps below to prepare to use VeriLight code:
     conda create -n verilight python=3.8.20
     ```
 5. If you would like to generate videos visualizing the verification results (see [below](#verify-a-video), make sure you have ffmpeg installed.
+   
      Linux:
        ```
        sudo apt-get update
        sudo apt-get install ffmpeg
        ```
-   macOS:
-    ```
-     brew install ffmpeg
-    ```
-    Windows:
-   Download ffmpeg binary [here](https://ffmpeg.org/download.html).
+   
+      macOS:
+      ```
+      brew install ffmpeg
+      ```
+      
+      Windows: Download ffmpeg binary [here](https://ffmpeg.org/download.html).
 7. Install dependencies in the conda environment
     ```
     conda activate verilight
