@@ -1,17 +1,6 @@
 # Combating Falsification of Speech Videos with Live Optical Signatures
 [![DOI](https://zenodo.org/badge/1050567422.svg)](https://doi.org/10.5281/zenodo.17063746)
 
-> **Artifact Overview** 
->
-> This artifact contains all material needed to replicate VeriLight. The VeriLight core unit is built with specialized hardware that would not be available in most labs. Thus, we provide a [demo](#demo) with a screencast of the core unit operating at a speech, sample recordings from the event, and step-by-step instructions for verifying those recordings using provided code. The demo section is the focus of this artifact, but we hope our [instructions](resources/core_unit_guide.md) on replicating the hardware will also aid reproduceability.
->
-> Please note that the video datasets used to produce our paper's results cannot be released for privacy and IRB reasons. The videos in this repo are a small set created separately, purely for demonstration purposes and to provide a basis for evaluating our claims on VeriLight's ability to detect falsifications.
->
-> The expected time needed to evaluate the artifact is as follows:
-> 1. [Requirements and Installation](#requirements-and-installation) (5 human-minutes and 10 compute-minutes)
-> 2. [Run demo notebook](#demo) (10 human-minutes and 35 compute-minutes)
-
-
 VeriLight is a system for protecting live speech videos from visual falsification of speaker identity and lip and facial motion. Unlike the predominant *digital* methods for detecting fake videos, VeriLight creates dynamic *physical* signatures at the speech site and embeds them into all video recordings via imperceptible modulated light. These physical signatures can be extracted from any video downstream and validated against the portrayed speech content to check its integrity. 
 
 The system has two main components:
